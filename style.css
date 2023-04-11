@@ -79,7 +79,10 @@ section{
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
 
+.options button{
+    margin: 20px;
 }
 
 .motamashisXeli{
